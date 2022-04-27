@@ -21,8 +21,8 @@ const kMessageContainerDecoration = BoxDecoration(
 
 const kTextFieldDecoration = InputDecoration(
   hintText: 'Enter a value',
-  fillColor: Colors.black,
   labelText: 'Enter a value',
+  fillColor: Colors.black,
   contentPadding:
   EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
   border: OutlineInputBorder(
